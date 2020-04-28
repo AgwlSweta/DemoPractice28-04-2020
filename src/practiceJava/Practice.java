@@ -11,7 +11,7 @@ public class Practice {
 			
 		} while( x > 0);
 		
-
+   System.out.println("hi checking");
 	}
 
 }
